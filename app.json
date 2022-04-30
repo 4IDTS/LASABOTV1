@@ -2,7 +2,7 @@
   "name": "LASA BOT V1 ",
   "description": "whatsapp bot build with nodejs",
   "repository": "https://github.com/4IDTS/lasabotv1",
-  "logo": "https://pbs.twimg.com/media/Erh9GtGXYAETLkU?format=jpg&name=900x900",
+  "logo": "https://i.imgur.com/uFaJCxq.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"],
   "buildpacks": [
     {
