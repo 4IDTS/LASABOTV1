@@ -1,5 +1,5 @@
 {
-  "name": "DogeBot",
+  "name": "LASA",
   "version": "3.0.0",
   "description": "None",
   "main": "main.js",
@@ -44,15 +44,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DGXeon"
+    "url": "git+https://github.com/4IDTS"
   },
   "keywords": [
     "Wasu"
   ],
-  "author": "Xeon",
+  "author": "4ITDS",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/DGXeon/DogeBot3/issue"
+    "url": "https://github.com/4IDTS/LASABOTV1/issue"
   },
-  "homepage": "https://github.com/DGXeon/DogeBot3"
+  "homepage": "https://github.com/4IDTS/LASABOTV1"
 }
