@@ -6,4 +6,4 @@
 
  Deploy to heroku 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/4ITDS/lasabotv1/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/4IDTS/lasabotv1/)
