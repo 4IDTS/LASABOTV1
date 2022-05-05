@@ -1,4 +1,4 @@
-<a href="https://replit.com/@DGXeon/Doge-Bot-Qr-Code-Generator?v=1"><img align="center" src="https://i.imgur.com/aic8W3F.jpeg" alt="SCAN" height="112" width="300" /></a>
+<a href="https://replit.com/@DGXeon/Doge-Bot-Qr-Code-Generator?v=1"><img align="center" src="https://i.imgur.com/f6aQmUv.jpeg" alt="SCAN" height="112" width="300" /></a>
 <br>
 <div>
 <br>
@@ -8,4 +8,4 @@
 <br>
 <a href="https://github.com/4IDTS/LASABOTV1/fork"><img align="center" src="https://i.imgur.com/rM1IC4u.png" alt="Fork and deploy" height="112" width="300" /></a>
 <div>
-  <br>
+  <br>https://i.imgur.com/aic8W3F.jpeg
