@@ -1,4 +1,4 @@
-<a href="https://replit.com/@DGXeon/Doge-Bot-Qr-Code-Generator?v=1"><img align="center" src="https://i.imgur.com/aic8W3F.jpeg" alt="SCAN" height="50" width="200" /></a>
+<a href="https://replit.com/@DGXeon/Doge-Bot-Qr-Code-Generator?v=1"><img align="center" src="https://i.imgur.com/aic8W3F.jpeg" alt="SCAN" height="112" width="300" /></a>
 <br>
 <div>
 <br>
