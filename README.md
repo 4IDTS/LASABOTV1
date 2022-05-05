@@ -1,3 +1,9 @@
+#1 #SCAN QR 
+#2 #FORK
+#3 CHANGE SESSION.JSON WITH YOUR SESSION 
+#4 DEPLOY 😙
+
+
 <a href="https://replit.com/@DGXeon/Doge-Bot-Qr-Code-Generator?v=1"><img align="center" src="https://i.imgur.com/f6aQmUv.jpeg" alt="SCAN" height="112" width="300" /></a>
 <br>
 <div>
