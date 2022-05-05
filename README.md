@@ -3,7 +3,7 @@
 <div>
 <br>
   
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F4IDTS%2Flasabot1&template=https%3A%2F%2Fgithub.com%2F4IDTS%2Flasabotv1%2F" target="blank"><img align="center" src="https://i.imgur.com/gtK4XLX.png" alt="Deploy bot" height="112" width="310" /></a>
+<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2F4IDTS%2Flasabot1&template=https%3A%2F%2Fgithub.com%2F4IDTS%2Flasabotv1%2F" target="blank"><img align="center" src="https://i.imgur.com/HiQsX6n.jpeg" alt="Deploy bot" height="112" width="310" /></a>
   <div>
 <br>
 <a href="https://github.com/sou6av/raganork-md-deploy/fork"><img align="center" src="https://i.imgur.com/rM1IC4u.png" alt="Fork and deploy" height="112" width="300" /></a>
