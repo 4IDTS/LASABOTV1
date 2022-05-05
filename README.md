@@ -8,4 +8,4 @@
 <br>
 <a href="https://github.com/4IDTS/LASABOTV1/fork"><img align="center" src="https://i.imgur.com/rWRVjeu.jpeg" alt="Fork and deploy" height="112" width="300" /></a>
 <div>
-  <br>https://i.imgur.com/aic8W3F.jpeg
+  
