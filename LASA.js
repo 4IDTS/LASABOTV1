@@ -2,8 +2,8 @@
 //If you want to recode, reupload
 //or copy the codes,
 //pls give credit
-//© 2022 Xeon Bot Inc. Doge Bot 
-//Thank you to Lord Buddha, Family and Myself
+//© 2022 LASA&FOX Bot Inc. 
+//,
 //═══════════════════════════════════════════════════════//
 const
 	{
