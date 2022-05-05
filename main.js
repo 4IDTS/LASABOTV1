@@ -1,6 +1,6 @@
 //pls give credit if you reupload 
 //or copy the codes
-//© 2022 Xeon Bot Inc. Doge Bot
+//© 2022 lasa Bot Inc.
 const {
     WAConnection,
     MessageType,
@@ -19,8 +19,8 @@ const setting = JSON.parse(fs.readFileSync('./setting/setting.json'))
 session = setting.session
 
 
-require('./DogeBot.js')
-nocache('./DogeBot.js', module => console.log(`${module} telah di update!`))
+require('./LASA.js')
+nocache('./LASABot.js', module => console.log(`${module} telah di update!`))
 
 const starts = async (DogeXeonOP = new WAConnection()) => {
     DogeXeonOP.logger.level = 'warn'
@@ -34,7 +34,7 @@ const starts = async (DogeXeonOP = new WAConnection()) => {
 	}), 'cyan'))
 	console.log(color('\n> YT CHANNEL: Xeon ','silver'))
 console.log(color('> GITHUB: DGXeon ','silver'))
-console.log(color('> WA NUMBER: +916909137213 ','silver'))
+console.log(color('> WA NUMBER: +91 9947178184 ','silver'))
 console.log(color('  Xeon Bot Inc. 2022','mediumseagreen'))
     console.log(color('<>','red'), color('I Wrote This Script By Myself!\nNote, The Script Is Encrypted, So You Wont Be Able To Recode, If You Wish To Buy Decrypted Script Contact The Developer', 'yellow'))
     console.log(color('<>','red'), color('Source Code Version: 3.0', 'aqua'))
@@ -42,7 +42,7 @@ console.log(color('  Xeon Bot Inc. 2022','mediumseagreen'))
     console.log(color('[DOGE BOT]'), color('Doge Bot Is Online', 'aqua'))
     console.log(color('[DEV]', 'cyan'), color('Welcome Back Owner! Hope You Doing Well~', 'magenta'))
     console.log(color('<>','red'), color('Thanks For Using Doge Bot', 'white'))
-	DogeXeonOP.browserDescription = [ 'Subscribe Xeon', 'chrome', '3.0' ]
+	DogeXeonOP.browserDescription = [ 'FOX MYER', 'Microsoft, '3.0' ]
     DogeXeonOP.on('qr', () => {
         console.log(color('[','white'), color('!','red'), color(']','white'), color(' Scan the qr code in only 20 seconds !!'))
     })
